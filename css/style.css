@@ -1,0 +1,214 @@
+
+/*
+.boton:hover{
+    background-color: rgba(210, 105, 30, 0.692) !important;
+}
+
+.boton{
+    border: white solid 0px !important;
+    background-color: #0668b2 !important;
+    color: white !important;
+}
+
+.social, p a{
+    color: #0668b2;
+    text-decoration: none;
+    
+}
+
+.social:hover, p a:hover{
+    color: rgba(210, 105, 30, 0.692);
+    text-decoration: none;
+}
+
+a .img-fluid:hover{
+    border: #0668b2 solid 2px;
+}
+
+
+
+
+
+
+.card{
+    flex-direction: row !important;
+}
+
+
+
+.img_marca:hover{
+    border: 2px solid #404040 !important;
+
+}
+
+.btn-outline-primary {
+    border-color: #0668b2 !important;
+}
+
+ 
+
+colocar zoom a imagen
+
+.card-img-top{
+    transition: transform .2s;
+}
+
+.card-img-top:hover{
+    transform: scale(1.5);
+}
+
+
+.card-body{
+    margin: 0;
+    padding: 0;
+    color: black !important;
+    text-decoration: none !important;
+}
+
+.card-text{
+    padding-top: 0.3rem;
+    padding-bottom: 00.3rem;
+    font-size: 1.5rem;
+}
+
+.productos .card:hover .card-text{
+    background-color: #0668b2;
+    
+}
+
+.filtro {
+    text-decoration: none;
+}
+
+
+
+*/
+/* -------------------------------------------------- navbar ------------------------------------------------------*/
+.navbar{
+    background-color: #000 !important;
+    padding: 0px;
+}
+.nav-item, .nav-link {
+    font-family: 'Montserrat', sans-serif !important;
+    color: #fff !important;
+    
+}
+.nav-item {
+    padding: 10px;
+}
+.nav-item:hover, .nav-link:hover{
+    background-color: #0668b2 !important;
+    color: #fff !important;
+}
+/* -------------------------------------------- listado de marcas ------------------------------------------------*/
+.marcas {
+    align-items: center !important;
+}
+
+.fondo_marca {
+    background-color: #404040 !important;
+    border-radius:20px !important;
+}
+
+.fondo_marca:hover {
+    background-color: #0668b2 !important;
+}
+
+.fondo_marca_detalles {
+    background-color: #0668b2 !important;
+    border-radius:20px !important;
+}
+
+/* -------------------------------------------- listado de marcas ------------------------------------------------*/
+.list-group-item {
+    color: #404040 !important;
+    text-decoration: none !important;
+    border: none !important;
+    border-bottom: 1px solid #404040 !important;
+    font-size: 18px;
+}
+
+a{
+    color: black !important;
+    text-decoration: none !important;
+}
+
+li.filtro:hover{
+    color: #fff !important;
+    background-color: #0668b2 !important;
+}
+
+.subcategoria{
+    color: #404040 !important;
+    text-decoration: none !important;
+    border: none !important;
+}
+
+.h2 {
+    color: #000 !important;
+    text-decoration: none !important;
+    border: none !important;
+    border-bottom: 2px solid #000 !important;
+    padding: 2px !important;
+    font-size: 32px !important;
+}
+
+.bg-dark{
+    background-color: #000 !important;
+}
+
+.social, .social_h2{
+    color: #fff !important;
+    margin: 0px !important;
+    padding: 10px !important;
+    font-size: 20px !important;
+}
+
+.social_h2{
+    font-size: 32px !important;
+}
+
+.social:hover{
+    color: #0668b2 !important;
+}
+
+.text-muted{
+    color: #fff !important;
+    font-size: 16px !important;
+}
+
+.chapa{
+    color: #0668b2 !important;
+}
+
+.chapa:hover{
+    color: #fff !important;
+}
+
+.img_footer{
+    margin-top: 20px !important;
+    margin-bottom: 0px !important;
+}
+
+/* -------------------------------------------- categorias vinculadas ------------------------------------------------*/
+
+.btn-lg{
+    font-size: 30px;
+    height: 120px;
+    width: 100%;
+    border-radius: 20px;
+}
+
+
+
+.btn-outline-primary{
+    background-color: #404040;
+    border-color: #404040;
+    color: #fff;
+}
+
+.btn-outline-primary:hover{
+    background-color: #0668b2;
+    border-color: #0668b2;
+    color: #fff;
+}
